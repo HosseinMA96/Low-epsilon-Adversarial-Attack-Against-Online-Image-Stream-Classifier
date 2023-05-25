@@ -1,4 +1,4 @@
-The models used for our experiments.
+# The models used for our experiments.
 
 For MNIST, we used the same model, but one with L1 regularization and another one with L2 regularziation, as mentioned in the paper.
 For Fashion-MNIST, we used only one model, with regularization loss.
